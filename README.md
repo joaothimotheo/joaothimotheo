@@ -1,19 +1,20 @@
 ## Bem vindos, me chamo João Thimotheo 
 
 - 🔭 Atualmente não estou atuando em nenhuma empresa
-- 🌱 Estou no quarto período de Analise e desenvolvimento de sistemas na universidade Tuiuti do Paraná
+- 🌱 Terminei meu último período do curso  de Analise e desenvolvimento de sistemas, porém ainda estou terminando algumas dependencias que ficaram para trás
 - 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/joaothimotheo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaothimotheo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaothimotheo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaothimotheo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
   <img  align="center" alt="João-android" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
   <img align="center" alt="João-dart" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />
- <img align="center" alt="João-flutter" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
+  <img align="center" alt="João-csharp" height="35" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 </div>
 
 <br>
