@@ -1,7 +1,7 @@
 ## Bem vindos, me chamo João Thimotheo 
 
 - 🔭 Atualmente não estou atuando em nenhuma empresa
-- 🌱 Terminei meu último período do curso  de Analise e desenvolvimento de sistemas, porém ainda estou terminando algumas dependencias que ficaram para trás
+- 🌱 Formado em Análise e desenvolvimento de sistemas pela universidade Tuiuti do Paraná
 - 😄 Pronouns: ele/dele
 
 <div align="center">
