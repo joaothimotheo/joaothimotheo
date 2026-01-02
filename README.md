@@ -1,6 +1,7 @@
 ## Bem vindos, me chamo João Thimotheo 
 
-- 🔭 Estou a procura de uma vaga na area de desenvolvimento
+- 🔭 Analista de TI
+- Full-Stack
 - 🌱 Formado em Análise e desenvolvimento de sistemas pela universidade Tuiuti do Paraná
 - 😄 Pronouns: ele/dele
 
